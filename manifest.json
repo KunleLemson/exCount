@@ -1,0 +1,13 @@
+{
+  "name": "Exam Countdown",
+  "short_name": "exCount",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#1c870b",
+  "orientation": "portrait",
+  "icons": {
+    "src": "/favicon.png",
+    "type": "image/png", "sizes": "512x512"
+  }
+}
